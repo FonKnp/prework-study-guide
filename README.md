@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository is about the bootcamp prework study guide webpage to help me under stand more abote coding. This webpage was create to help me pre study about languages of codes. I have solve HTML link with CSS and JavaScript. I have learn about how to use HTML to start thw webpage. I learned about CSS to put more visual perspective into this site. And I use Javascript to improve my knowledge about function variables.
+This repository is about the bootcamp prework study guide webpage to help me under stand more about coding. This webpage was create to help me pre study about languages of codes. I have solve HTML link with CSS and JavaScript. I have learn about how to use HTML to start thw webpage. I learned about CSS to put more visual perspective into this site. And I use Javascript to improve my knowledge about function variables.
 
 ## Installation
 
